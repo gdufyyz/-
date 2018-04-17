@@ -66,6 +66,7 @@ forth {
 <center>
 <p class="first"><span class="third"><span class="third">简而言之一代代的毕业照是越来越棒的~</span></span></p>
 <p class="first"><span class="third"><span class="third">来~我们看看笔者对不同年代毕业证的看法</span></span></p>
+<center>
 <table width="761" border="1">
   <tr>
     <td width="185"><span class="table1"> 　60后</span></td>
@@ -80,6 +81,7 @@ forth {
     <td><span class="table1">超级棒啦</span></td>
   </tr>
 </table>
+</center>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 </center>
