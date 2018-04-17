@@ -62,7 +62,7 @@ forth {
 <div></div>
 <p class="third">90后</p>
 <p class="first">90后的毕业照，算是惊天大逆转，彻底碾压了60后，70后，80后，让大家耳目一新的同时，很多人也在慨叹，这还是大先生吗？都抱着孩子来了，，时代在变迁，技术在飞速的提高，我们无法阻挠社会的潮流，&ldquo;非主流&rdquo;，成了这一代的标签，他们大学的丰厚生活，也让大家对他们另眼想看，他们开启了一个全新的时代，将来的00后，能够将会让大家愈加惊奇。还有一个特点，他们曾经无法满足于停留在空中上了，他们还有一些典礼，比方毕业仪式走红毯，完全一个明星范了。</p>
-<img src="https://gdufyyz.github.io/-/5.jpeg" width="500" height="500" />
+<img src="http://img.mp.itc.cn/upload/20160511/82171c4fad224ed097990f4ac5a6aa54_th.jpg" width="500" height="500" />
 <center>
 <p class="first"><span class="third"><span class="third">简而言之一代代的毕业照是越来越棒的~</span></span></p>
 <p class="first"><span class="third"><span class="third">来~我们看看笔者对不同年代毕业证的看法</span></span></p>
